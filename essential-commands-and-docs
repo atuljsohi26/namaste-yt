@@ -1,0 +1,12 @@
+1. Create React App
+   npx create-react-app <app-name>
+2. Install Tailwindcss
+   npm i - D tailwindcss
+3. Tailwind Init
+   npx tailwind init
+4. Install Redux Toolkit
+   npm i @reduxjs/toolkit
+   npm i react-redux
+5. To create redux store create uitls folder and inside utils folder create store.js file
+6. Routing
+   npm i react-router-dom
